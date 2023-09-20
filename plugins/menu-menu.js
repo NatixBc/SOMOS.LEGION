@@ -19,14 +19,14 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let str = `╭「𝐁𝐂」
-│➯ *𝙷𝙾𝙻𝙰,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Bryxn 
-│➯ *𝙸𝙽𝙵𝙾: Wa.me/+593962753376
-│𝐁𝐂
-│➯ *ғᴇᴄʜᴀ:➟${date}
-│➯ *ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
-│➯ *ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
+let str = `╭「➻❥MAE.bot❥」
+│➯ *HOLA:*➟${taguser}
+│➯ *CREADOR:* THAIRI
+│➯ *INFO:* Wa.me/+593959189743
+│➻❥MAE.bot❥
+│➯ *FECHA:*➟${date}
+│➯ *TIEMPO ACTIVO:*➟${uptime}
+│➯ *USUARIOS:*➟${rtotalreg}
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭─「➻❥ *Estadísticas* ➻❥」
@@ -34,13 +34,13 @@ let str = `╭「𝐁𝐂」
 │➯ *🧿Experiencia:* ${exp}
 │➯ *⚓Rango:* ${role}
 │➯ *💎Diamantes:* ${limit}
-│➯ *👾Hades-Coins:* ${money}
+│➯ *👾Coins:* ${money}
 │➯ *🪙Tokens:* ${joincount}
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭─「➻❥ *QUIERES TENER UN BOT TU TAMBIEN?* ➻❥」
-│➯ *.aleprecios*
-│➯ *.aleinfo*
+│➯ *.precios*
+│➯ *.info*
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭─「➻❥ *gana y compara* ➻❥」
@@ -250,7 +250,7 @@ let str = `╭「𝐁𝐂」
 │➯ *.wonderfulgraffiti <texto>*
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
-╭─「➻❥ *Jadibot* ➻❥」
+╭─「➻❥ *bot* ➻❥」
 │➯ *.serbot*
 │➯ *.stop borra tu sesión antigua*
 ╰───────────────╯
