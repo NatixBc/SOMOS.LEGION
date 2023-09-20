@@ -20,7 +20,7 @@ git clone https://github.com/natixbc/MADE.bot
 ```
 
 ```bash
-cd MAE.bot
+cd MADE.bot
 ```
 
 ```bash
