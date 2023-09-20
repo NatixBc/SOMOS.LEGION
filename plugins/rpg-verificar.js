@@ -18,10 +18,10 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
   user.registered = true
   let sn = createHash('md5').update(m.sender).digest('hex')
   m.reply(`╭「MADE.bob」
-│➯⛥❏[🌴]*HOLA YA ESTAS REGISTRADO*
-│➯⛥❏[🤴]*NOMBRE* ${name}
-│➯⛥❏[🏧]*EDAD* ${age} AÑOS 
-│➯⛥❏[™️]*NUMERO DE SERIE*
+│➯⛥❏[🌴] *HOLA YA ESTAS REGISTRADO*
+│➯⛥❏[🤴] *NOMBRE* ${name}
+│➯⛥❏[🏧] *EDAD* ${age} AÑOS 
+│➯⛥❏[™️] *NUMERO DE SERIE*
 │➯⛥❏[✔️]${sn}
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢`.trim())
