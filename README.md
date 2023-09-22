@@ -16,11 +16,11 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/natixbc/MADE.bot
+git clone https://github.com/natixbc/NUTS-BOT
 ```
 
 ```bash
-cd MADE.bot
+cd NUTS-BOT
 ```
 
 ```bash
@@ -48,14 +48,14 @@ npm start
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd MADE.bot
+> cd NUTS-BOT
 > npm start
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd MADE.bot
+> cd NUTS-BOT
 > rm -rf session.data.json
 > npm start
 ```
