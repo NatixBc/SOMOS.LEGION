@@ -1,7 +1,7 @@
 let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let text = `╭「𝐁𝐎𝐓𝐂𝐈𝐓𝐎 𝐈𝐙𝐍」
+let text = `╭「𝐁𝐎𝐓𝐂𝐈𝐓𝐎」
 │➯➻❥ *✳️TIENDA-SHOP✨* ➻❥
 │➯ *.minar gana xp* 🧿
 │➯ *.minar2 gana Diamantes* 💎
@@ -25,7 +25,7 @@ let text = `╭「𝐁𝐎𝐓𝐂𝐈𝐓𝐎 𝐈𝐙𝐍」
 let buttonMessage= {
 'document': { url: `https://github.com/OFC-YOVANI/HADES-BOT-OMEGA` },
 'mimetype': `application/${document}`,
-'fileName': `⫷𝐁𝐎𝐓𝐂𝐈𝐓𝐎 𝐈𝐙𝐍`,
+'fileName': `⫷𝐁𝐎𝐓𝐂𝐈𝐓𝐎`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
