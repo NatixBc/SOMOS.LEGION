@@ -16,11 +16,11 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/natixbc/NUTS-BOT
+git clone https://github.com/natixbc/SOMOS.LEGION
 ```
 
 ```bash
-cd NUTS-BOT
+cd SOMOS.LEGION
 ```
 
 ```bash
@@ -48,14 +48,14 @@ npm start
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd NUTS-BOT
+> cd SOMOS.LEGION
 > npm start
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd NUTS-BOT
+> cd SOMOS.LEGION
 > rm -rf session.data.json
 > npm start
 ```
