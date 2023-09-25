@@ -22,7 +22,6 @@ let str = `╭「*𝕾𝖔𝖒𝖔𝖘 𝕱𝖆𝖒𝖎𝖑𝖎𝖆 𝕾𝖔𝖒
 │➯*HOLA:*➟${taguser}
 │➯*MI CREADOR:* Mau
 │➯*NUMERO:*➟ Wa.me/+593995215569
-│➯*NUMERO:*➟ Wa.me/+593962753376
 │➯*FECHA:*➟${date}
 │➯*TIEMPO ACTIVO:*➟${uptime}
 │➯*USUARIOS*➟${rtotalreg}
