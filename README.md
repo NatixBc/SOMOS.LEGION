@@ -56,7 +56,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd SOMOS.LEGION
-> rm -rf session.data.json
+> rm -rf session-activa
 > npm start
 ```
 
