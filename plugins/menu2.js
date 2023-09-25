@@ -20,8 +20,8 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `╭「*𝕾𝖔𝖒𝖔𝖘 𝕱𝖆𝖒𝖎𝖑𝖎𝖆 𝕾𝖔𝖒𝖔𝖘 𝕷𝖊𝖌𝖎ó𝖓*」
 │➯ *HOLA:*➟${taguser}
-│➯ *OWNER:OFC*➟Bryxn 
-│➯ *𝙸𝙽𝙵𝙾: Wa.me/+593962753376
+│➯ *OWNER:OFC*➟ 
+│➯ *𝙸𝙽𝙵𝙾: Wa.me/+593995215569
 │➯ *FECHA:*➟${date}
 │➯ *TIEMPO ACTIVO:*➟${uptime}
 │➯ *USUARIOS:*➟${rtotalreg}
